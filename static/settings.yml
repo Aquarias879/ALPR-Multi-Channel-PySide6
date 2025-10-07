@@ -1,0 +1,15 @@
+rtsp:
+  ch1: http://192.168.2.241:5000/video_feed
+  ch2: ''
+  ch3: ''
+  ch4: ''
+api:
+  ch1: http://192.168.2.241:5000/hello
+  ch2: ''
+  ch3: ''
+  ch4: ''
+license:
+  ch1: http://192.168.2.241:6000
+  ch2: ''
+  ch3: ''
+  ch4: ''
