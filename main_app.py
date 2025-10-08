@@ -392,10 +392,10 @@ class controlManager:
     def connection():
         connection_str = (
             "DRIVER={ODBC Driver 17 for SQL Server};"
-            "Server=192.168.2.102,1435;"
+            "Server=;"
             "Database=PKM;"
-            "UID=sa;"
-            "PWD=$j53272162;"
+            "UID=;"
+            "PWD=;"
             "MultipleActiveResultSets=True;"
             "Trusted_Connection=no;"
         )
